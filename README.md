@@ -1,4 +1,4 @@
-<h2> 1. </h2>
+<h2> 1. hough transform image </h2>
 
 
 This code is an implementation of the Hough Transform for line detection in images. Below is a detailed explanation of the various stages of the code and its functionality:
