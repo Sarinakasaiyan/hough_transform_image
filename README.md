@@ -26,3 +26,13 @@ This code is an implementation of the Hough Transform for line detection in imag
 This code serves as an effective tool for detecting and visualizing lines in images. Its applications include image processing, computer vision, and image analysis in various fields such as object detection, path tracking, and structural analysis. By adjusting parameters like edge detection thresholds or Hough Transform resolution, users can optimize the code's performance for different types of images.
 
 Ultimately, this code helps users easily identify lines present in images and visually observe results, making it highly useful for many projects related to image processing.
+
+<img width="1440" alt="hough_transform_image-" src="https://github.com/user-attachments/assets/e9720088-5f7f-48be-b6f9-d64b952885d6">
+
+<img width="1440" alt="hough_transform_image input" src="https://github.com/user-attachments/assets/ddc5c038-b096-48fc-9463-b5303b4357eb">
+
+<img width="1440" alt="hough_transform_image output" src="https://github.com/user-attachments/assets/9169ccf2-e0c8-4ea2-9a64-9a0a6a8e5075">
+
+
+
+
