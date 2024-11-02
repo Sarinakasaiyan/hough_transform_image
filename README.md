@@ -27,11 +27,19 @@ This code serves as an effective tool for detecting and visualizing lines in ima
 
 Ultimately, this code helps users easily identify lines present in images and visually observe results, making it highly useful for many projects related to image processing.
 
+Input:
 
 <img width="1440" alt="hough_transform_image-" src="https://github.com/user-attachments/assets/26ddfb5c-01ae-477d-a769-13b16f62c3ec">
 
+---
+
 <img width="1440" alt="hough_transform_image-input" src="https://github.com/user-attachments/assets/ffd7b976-68fb-4823-8a03-47204919d217">
 
+---
+Output:
+
 <img width="1440" alt="hough_transform_image-output" src="https://github.com/user-attachments/assets/901a4fba-2f9a-4afd-8ad3-3a9c94669aab">
+
+---
 
 
